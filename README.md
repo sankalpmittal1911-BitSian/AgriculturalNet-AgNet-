@@ -8,9 +8,11 @@ After training for 1000+ epochs, I was able to get training accuracy of about 91
 
 # True Image
 ![](https://github.com/sankalpmittal1911-BitSian/AgriculturalNet-AgNet-/blob/master/Images/54494876-ced0d480-4904-11e9-9efc-4cec8976b72c.png)
+![](https://github.com/sankalpmittal1911-BitSian/AgriculturalNet-AgNet-/blob/master/Images/Generated_Mask%20(1).png)
 
 # Predicted Image
 ![](https://github.com/sankalpmittal1911-BitSian/AgriculturalNet-AgNet-/blob/master/Images/54494876-ced0d480-4904-11e9-9efc-4cec8976b7new2c.png)
+![](https://github.com/sankalpmittal1911-BitSian/AgriculturalNet-AgNet-/blob/master/Images/Generated_Mask.png)
 
 # Changes to UNet block:
 
