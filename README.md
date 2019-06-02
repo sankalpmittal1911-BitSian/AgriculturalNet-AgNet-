@@ -22,7 +22,8 @@ Please feel free to suggest tips for improvement!
 
 # Suggested Tips:
 
-1.Use class weights.
+1. Use class weights.
+
 2. Try other models like PSPNet.
 
 Contribute as much as possible!
