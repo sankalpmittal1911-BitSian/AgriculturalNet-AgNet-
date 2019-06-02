@@ -4,6 +4,12 @@ State of the art model for classifying 256 crop categories built in Keras.
 # Basic Architecture Used: 
 UNet
 
+# Dataset:
+https://github.com/ZihengSun/Ag-Net-Dataset
+
+# Color Map:
+https://github.com/ZihengSun/Ag-Net-Dataset/blob/master/colormap.py
+
 After training for 1000+ epochs, I was able to get training accuracy of about 91% and validation accuracy of 84%.
 
 # True Image
