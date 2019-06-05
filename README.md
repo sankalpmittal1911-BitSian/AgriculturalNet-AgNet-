@@ -38,6 +38,8 @@ Please feel free to suggest tips for improvement!
 
 1. Use class weights.
 
+3. Use Custom Image Augmentation on Tranining Data.
+
 2. Try other models like PSPNet.
 
 Contribute as much as possible!
