@@ -1,4 +1,4 @@
-# AgriculturalNet-AgNet-
+# AgriculturalNet-AgNet
 State of the art model for classifying 256 crop categories built in Keras.
 
 # Basic Architecture Used: 
@@ -20,7 +20,7 @@ After training for 1000+ epochs, I was able to get training accuracy of about 91
 ![](https://github.com/sankalpmittal1911-BitSian/AgriculturalNet-AgNet-/blob/master/Images/54494876-ced0d480-4904-11e9-9efc-4cec8976b7new2c.png)
 ![](https://github.com/sankalpmittal1911-BitSian/AgriculturalNet-AgNet-/blob/master/Images/Generated_Mask.png)
 
-# Changes to UNet block:
+# Changes to U-Net block:
 
 1. Use of skip connections.
 
