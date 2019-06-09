@@ -2,7 +2,7 @@
 State of the art model for classifying 256 crop categories built in Keras.
 
 # Basic Architecture Used: 
-UNet
+U-Net
 
 # Dataset:
 https://github.com/ZihengSun/Ag-Net-Dataset
@@ -44,3 +44,4 @@ Please feel free to suggest tips for improvement!
 
 Contribute as much as possible!
 
+Cited here: https://github.com/ESIPFed/Ag-Net
