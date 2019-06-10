@@ -1,6 +1,8 @@
 # AgriculturalNet-AgNet
 State of the art model for classifying 256 crop categories built in Keras.
 
+Cited by Earth Science Information Partners (ESIP):https://github.com/ESIPFed/Ag-Net
+
 # Basic Architecture Used: 
 U-Net
 
@@ -43,5 +45,3 @@ Please feel free to suggest tips for improvement!
 2. Try other models like PSPNet.
 
 Contribute as much as possible!
-
-Cited here: https://github.com/ESIPFed/Ag-Net
