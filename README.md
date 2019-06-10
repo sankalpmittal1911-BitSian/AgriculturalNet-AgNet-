@@ -44,5 +44,5 @@ Please feel free to suggest tips for improvement!
 
 Contribute as much as possible!
 
-Cited by Earth Science Information Partners (ESIP):https://github.com/ESIPFed/Ag-Net
+Cited by Earth Science Information Partners (ESIP): https://github.com/ESIPFed/Ag-Net
 
